@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://romurol.github.io/sitemap.txt.gz
+Sitemap: https://romurol.github.io/sitemap/sitemap_index.txt.gz
